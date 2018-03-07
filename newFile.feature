@@ -1,4 +1,4 @@
-Story: Dark Coffee Should Be Served In Promo Mugs
+Feature: Dark Coffee Should Be Served In Promo Mugs
   As a customer
   When I purchase a coffee
   I expect to be served in a dark mug
